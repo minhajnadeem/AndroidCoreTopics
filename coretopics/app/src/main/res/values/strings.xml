@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Core Topics</string>
+    
+    <!--activity titles-->
+    <string name="string_title_touch_and_input">Touch And Input</string>
+    
+    <!--view strings-->
+    <string name="string_topic_touch_amp_input"><![CDATA[Touch & Input]]></string>
+    <!--touch and input activity strings-->
+    <string name="string_sub_topic_input_event">Input Event</string>
+    <string name="string_click_long_click">click/long click</string>
+    
 </resources>
